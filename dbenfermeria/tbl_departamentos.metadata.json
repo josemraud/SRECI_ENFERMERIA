@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"dbenfermeria.tbl_departamentos"}],"uuid":"1afaba14c09a4f878181ce36d3de0d7b"}
